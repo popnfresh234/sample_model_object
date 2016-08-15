@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ModelObjectSample</string>
+
+    <string name="bean_sprout">Bean Sprout</string>
+    <string name="bean_sprout_sci">Vigna Radiata</string>
+
+    <string name="broccoli">Broccoli</string>
+    <string name="broccoli_sci">Brassica oleracea</string>
+
+    <string name="brown_onion">Yellow Onion</string>
+    <string name="brown_onion_sci">Allium cepa L</string>
+
+    <string name="carrot">Carrot</string>
+    <string name="carrot_sci">Daucus carota</string>
+
+    <string name="daikon">Daikon</string>
+    <string name="daikon_sci">Raphanus sativus var</string>
+
+    <string name="onion">Red Onion</string>
+    <string name="onion_sci">Allium cepa L</string>
+
+    <string name="potato">Potato</string>
+    <string name="potato_sci">Solanum tuberosum</string>
+
+    <string name="romaine">Romaine Lettuce</string>
+    <string name="romaine_sci">Lactuca sativa</string>
+
+</resources>
